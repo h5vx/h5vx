@@ -11,7 +11,7 @@
 <p align="center">
 <a href="https://github.com/h5vx/samp-monitor"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-samp-monitor-dark.svg"><img alt="samp-monitor" src="./assets/card-samp-monitor-light.svg" width="49%"></picture></a>
 <a href="https://github.com/h5vx/awg_exporter"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-awg_exporter-dark.svg"><img alt="awg_exporter" src="./assets/card-awg_exporter-light.svg" width="49%"></picture></a>
-<a href="https://github.com/h5vx/xiaomi_exporter"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-xiaomi_exporter-dark.svg"><img alt="xiaomi_exporter" src="./assets/card-xiaomi_exporter-light.svg" width="49%"></picture></a>
+<a href="https://github.com/h5vx/xiaomi-air-purifier-exporter"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-xiaomi-air-purifier-exporter-dark.svg"><img alt="xiaomi-air-purifier-exporter" src="./assets/card-xiaomi-air-purifier-exporter-light.svg" width="49%"></picture></a>
 <a href="https://github.com/h5vx/grafana-xmpp-webhook"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-grafana-xmpp-webhook-dark.svg"><img alt="grafana-xmpp-webhook" src="./assets/card-grafana-xmpp-webhook-light.svg" width="49%"></picture></a>
 </p>
 

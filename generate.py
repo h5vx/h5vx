@@ -16,7 +16,7 @@ CATEGORIES = [
     ("observability", "Monitoring & Observability", "Prometheus exporters, dashboards, alerting", "#f97316", [
         ("samp-monitor", "SA-MP / open.mp server monitor: Prometheus exporter, REST API, web UI and a ready Grafana dashboard. Zero deps, ~10 MB RSS.", ["Go"], ["prometheus", "grafana"]),
         ("awg_exporter", "Prometheus exporter for AmneziaWG running in Docker: per-client traffic and handshakes labeled with client names.", ["Go"], ["prometheus", "vpn"]),
-        ("xiaomi_exporter", "Prometheus exporter for Xiaomi Air Purifier Elite over local miIO protocol. No cloud, no Home Assistant.", ["Python"], ["prometheus", "iot"]),
+        ("xiaomi-air-purifier-exporter", "Prometheus exporter for Xiaomi Air Purifier Elite over local miIO protocol. No cloud, no Home Assistant.", ["Python"], ["prometheus", "iot"]),
         ("grafana-xmpp-webhook", "Webhook service that delivers Grafana alerts to XMPP (Jabber) chats.", ["Go"], ["grafana", "xmpp"]),
     ]),
     ("network", "VPN & Networking", "Privacy tools and protocol tinkering", "#22c55e", [
