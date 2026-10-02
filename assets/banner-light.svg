@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="170" viewBox="0 0 880 170">
+<defs>
+  <linearGradient id="g" x1="0" x2="1"><stop offset="0.00" stop-color="#f97316"/><stop offset="0.33" stop-color="#22c55e"/><stop offset="0.67" stop-color="#38bdf8"/><stop offset="1.00" stop-color="#a78bfa"/></linearGradient>
+  <pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#d0d7de"/></pattern>
+</defs>
+<style>
+  .t { font: 800 34px 'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #1f2328; }
+  .u { font: 500 15px 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; fill: #656d76; }
+  .p { font: 500 12.5px 'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #1f2328; }
+  .bar { animation: grow 1.2s cubic-bezier(.2,.8,.2,1) both; transform-origin: left; }
+  @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+</style>
+<rect x="1" y="1" width="878" height="168" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="1" y="1" width="878" height="168" rx="16" fill="url(#dots)" opacity=".6"/>
+<rect class="bar" x="40" y="30" width="56" height="5" rx="2.5" fill="url(#g)"/>
+<text x="40" y="78" class="t">Projects</text>
+<text x="840" y="78" text-anchor="end" class="u">github.com/h5vx · 11 repos</text>
+<rect x="40" y="112" width="239" height="28" rx="14" fill="#f97316" fill-opacity=".14" stroke="#f97316" stroke-opacity=".55"/><circle cx="54" cy="126" r="4" fill="#f97316"/><text x="64" y="130.5" class="p">Monitoring &amp; Observability · 4</text><rect x="289" y="112" width="168" height="28" rx="14" fill="#22c55e" fill-opacity=".14" stroke="#22c55e" stroke-opacity=".55"/><circle cx="303" cy="126" r="4" fill="#22c55e"/><text x="313" y="130.5" class="p">VPN &amp; Networking · 2</text><rect x="467" y="112" width="83" height="28" rx="14" fill="#38bdf8" fill-opacity=".14" stroke="#38bdf8" stroke-opacity=".55"/><circle cx="481" cy="126" r="4" fill="#38bdf8"/><text x="491" y="130.5" class="p">Bots · 3</text><rect x="560" y="112" width="132" height="28" rx="14" fill="#a78bfa" fill-opacity=".14" stroke="#a78bfa" stroke-opacity=".55"/><circle cx="574" cy="126" r="4" fill="#a78bfa"/><text x="584" y="130.5" class="p">Tools &amp; Fun · 2</text>
+</svg>

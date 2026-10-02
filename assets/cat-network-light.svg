@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="80" viewBox="0 0 880 80">
+<style>
+  .h { font: 700 22px 'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #1f2328; }
+  .s { font: 400 13px 'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #656d76; }
+  .k { font: 600 12px 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; fill: #22c55e; }
+</style>
+<rect x="0" y="16" width="6" height="46" rx="3" fill="#22c55e"/>
+<text x="20" y="36" class="h">VPN &amp; Networking</text>
+<text x="20" y="58" class="s">Privacy tools and protocol tinkering</text>
+<rect x="806" y="27" width="72" height="24" rx="12" fill="#22c55e" fill-opacity=".14" stroke="#22c55e" stroke-opacity=".5"/>
+<text x="842" y="43" text-anchor="middle" class="k">2 repos</text>
+<line x1="0" y1="79" x2="880" y2="79" stroke="#d0d7de"/>
+</svg>
