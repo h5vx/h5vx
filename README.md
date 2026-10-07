@@ -25,6 +25,7 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cat-bots-dark.svg"><img alt="Bots" src="./assets/cat-bots-light.svg" width="100%"></picture>
 
 <p align="center">
+<a href="https://github.com/h5vx/botmanager"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-botmanager-dark.svg"><img alt="botmanager" src="./assets/card-botmanager-light.svg" width="49%"></picture></a>
 <a href="https://github.com/h5vx/BandPlan_bot"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-BandPlan_bot-dark.svg"><img alt="BandPlan_bot" src="./assets/card-BandPlan_bot-light.svg" width="49%"></picture></a>
 <a href="https://github.com/h5vx/ugubot"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-ugubot-dark.svg"><img alt="ugubot" src="./assets/card-ugubot-light.svg" width="49%"></picture></a>
 <a href="https://github.com/h5vx/sampboombot"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-sampboombot-dark.svg"><img alt="sampboombot" src="./assets/card-sampboombot-light.svg" width="49%"></picture></a>

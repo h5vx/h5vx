@@ -23,7 +23,8 @@ CATEGORIES = [
         ("amnezia-client-android-nougat", "Amnezia VPN client (AmneziaWG) built to run on old Android 7 Nougat devices.", ["C++", "Qt/QML", "Kotlin"], ["fork", "vpn", "android"]),
         ("proxychecker", "Simple asynchronous proxy checker.", ["Python"], ["asyncio", "proxy"]),
     ]),
-    ("bots", "Bots", "Telegram, XMPP and streaming automation", "#38bdf8", [
+    ("bots", "Bots", "Telegram, XMPP and streaming automation, plus bot infrastructure", "#38bdf8", [
+        ("botmanager", "Distributed, fault-tolerant Telegram Bot API gateway: Raft-replicated mTLS gRPC service with idempotent sending and lossless update streams.", ["Go"], ["raft", "grpc"]),
         ("BandPlan_bot", "Telegram bot for band rehearsals: polls members' free time, finds overlaps, picks a slot and pins the schedule.", ["Python"], ["telegram"]),
         ("ugubot", "ChatGPT bot for XMPP (Jabber) with a web interface.", ["Python", "Vue"], ["xmpp", "llm"]),
         ("sampboombot", "Finds mp3 tracks on music services and streams them to an Icecast radio.", ["Python", "Lua"], ["icecast", "sa-mp"]),
